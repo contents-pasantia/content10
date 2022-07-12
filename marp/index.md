@@ -57,7 +57,7 @@ python --version
 python3 --version
 ~~~
 
-Mi primer proyecto en Django [tutorial](../resource/CreacionProyecto.md)
+Mi primer proyecto en Django [tutorial](./resource/CreacionProyecto.md)
 
 ---
 # Conceptos básicos en Django
@@ -89,10 +89,10 @@ Dado que Django está diseñado para ser un marco web, puede usar la estructura 
 ---
 
 # Model en Django
- Tutorial [enalce](../resource/Model.md)
+ Tutorial [enalce](./resource/Model.md)
 
 ---
 # Consola interactiva
-Tutorial [enalce](../resource/Shell.md)
+Tutorial [enalce](./resource/Shell.md)
 
 
