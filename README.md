@@ -13,5 +13,5 @@ Django es uno de los marcos web de Python más populares. Es especialmente efica
   - Herencia [doc](https://docs.python.org/3/tutorial/classes.html#inheritance)
 
 # contenido:
-1. Presentacion: [enlace](./index.html)
+1. Presentacion: [enlace](https://contents-pasantia.github.io/content10/)
 
